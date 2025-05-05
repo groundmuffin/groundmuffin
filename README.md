@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadim
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Vadim.
 =============================================================================================================================
 
-CTO
+Chief Technology Officer
 ----------------------
 
-Building tech for better healthcare outcomes | Passionate about clean code & meaningful impact
+Developing technology to improve healthcare outcomes. Passionate about clean code and making a meaningful impact.
 
-* 🌍  I'm based in Europe
+* 🌍  Based in Europe
 * 🤝  I'm open to collaborating on Healthcare projects
 
 ### Skills
