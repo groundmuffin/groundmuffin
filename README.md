@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Vadim.
 =============================================================================================================================
 
-Chief Technology Officer at Tech Stack Apps
+Chief Technology Officer at Life Value
 ----------------------
 
 Developing technology to improve healthcare outcomes. Passionate about clean code and making a meaningful impact.
 
 * 🌍  Based in Europe
-* 🖥️  View my portfolio: [http://techstackapps.com/portfolio](http://techstackapps.com/portfolio)
-* ✉️  Contact: [hello@techstackapps.com](mailto:hello@techstackapps.com)
-* 🤝  I'm open to collaborating on Healthcare projects through Tech Stack Apps
+* 🖥️  View my portfolio at [Life Value](https://lifevalue.com/case-studies](https://lifevalue.com/case-studies)/)
+* ✉️  Contact: [hello@lifevalue.com](mailto:hello@lifevalue.com)
+* 🚀  I'm currently working on [Life Value](https://lifevalue.com/)
+* 🤝  I'm open to collaborating on Healthcare projects through Life Value
 
 ### Skills
 
