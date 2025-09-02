@@ -7,7 +7,7 @@ Chief Technology Officer at Life Value
 Developing technology to improve healthcare outcomes. Passionate about clean code and making a meaningful impact.
 
 * 🌍  Based in Europe
-* 🖥️  View my portfolio at [Life Value](https://lifevalue.com/case-studies](https://lifevalue.com/case-studies)/)
+* 🖥️  View my portfolio at [Life Value](https://lifevalue.com/case-studies/)
 * ✉️  Contact: [hello@lifevalue.com](mailto:hello@lifevalue.com)
 * 🚀  I'm currently working on [Life Value](https://lifevalue.com/)
 * 🤝  I'm open to collaborating on Healthcare projects through Life Value
